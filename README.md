@@ -59,5 +59,5 @@ HELLO WORLD<br>
 - [x] 체크3
 
 ## 링크(하이퍼링크) -바로가기
-[네이버 바로가기](https://www.naver.com/){: target="_blank"} - 새창으로 여시오
-[GitHub](https://github.com){: target="_blank"}
+[네이버 바로가기](https://www.naver.com/)<br>
+<a href="https://www.naver.com/" target="_blank">네이버 새창으로 열기</a>

@@ -61,6 +61,9 @@ HELLO WORLD<br>
 ## 링크(하이퍼링크) -바로가기 (GITHUB는 새창으로 바로가기 지원x)
 [네이버 바로가기](https://www.naver.com/)<br>
 
+# 이미지
+![고양이](cat.jpg)
+
 # 인용문
 > HELLO WORLD
 >> HELLO WORLD
@@ -71,9 +74,6 @@ HELLO WORLD<br>
 |내용1|Hello world111|aaaa|
 |내용2|Hello world2222222|bbbbb|
 |내용3|Hello world33333333|cccccccc|
-
-# 이미지
-
 
 # 코드블럭
 

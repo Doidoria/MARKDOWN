@@ -57,3 +57,7 @@ HELLO WORLD<br>
 - [ ] 체크1
 - [x] 체크2 (완료된 일 - 체크됨)
 - [x] 체크3
+
+## 링크(하이퍼링크) -바로가기
+[네이버 바로가기](https://www.naver.com/){: target="_blank"} - 새창으로 여시오
+[GitHub](https://github.com){: target="_blank"}

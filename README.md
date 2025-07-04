@@ -62,7 +62,8 @@ HELLO WORLD<br>
 [네이버 바로가기](https://www.naver.com/)<br>
 
 # 이미지
-![고양이](cat.jpg)
+![고양이](./cat.jpg)
+<img src="./cat.jpg" width="50%" height="50%"></img>
 
 # 인용문
 > HELLO WORLD
@@ -75,8 +76,20 @@ HELLO WORLD<br>
 |내용2|Hello world2222222|bbbbb|
 |내용3|Hello world33333333|cccccccc|
 
-# 코드블럭
+# 코드블럭(상중백틱)
 
+- html을 넣어줘야 색상이 들어감 ↓
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+  </head>
+  <body>
+    <h1>HELLO WORLD</h1>
+  </body>
+</html>
+```
 
 
 

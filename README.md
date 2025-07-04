@@ -60,4 +60,4 @@ HELLO WORLD<br>
 
 ## 링크(하이퍼링크) -바로가기
 [네이버 바로가기](https://www.naver.com/)<br>
-<a href="https://www.naver.com/" target="_blank">네이버 새창으로 열기</a>
+[네이버 새창 바로가기](https://www.naver.com/) {: target="_blank"}

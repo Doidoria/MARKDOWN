@@ -58,6 +58,27 @@ HELLO WORLD<br>
 - [x] 체크2 (완료된 일 - 체크됨)
 - [x] 체크3
 
-## 링크(하이퍼링크) -바로가기
+## 링크(하이퍼링크) -바로가기 (GITHUB는 새창으로 바로가기 지원x)
 [네이버 바로가기](https://www.naver.com/)<br>
-[네이버 새창 바로가기](https://www.naver.com/) {: target="_blank"}
+
+# 인용문
+> HELLO WORLD
+>> HELLO WORLD
+
+# 표 (':'-정렬)
+|제목|-|-|
+|-:|:-:|:-|
+|내용1|Hello world111|aaaa|
+|내용2|Hello world2222222|bbbbb|
+|내용3|Hello world33333333|cccccccc|
+
+# 이미지
+
+
+# 코드블럭
+
+
+
+
+
+

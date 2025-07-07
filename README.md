@@ -26,9 +26,7 @@ ___
 
 HELLO WORLD  
 HELLO WORLD<br>
-HELLO WORLD<br>
-HELLO WORLD<br>
-HELLO WORLD<br>
+
 
 <!-- 강조 : (기울임:*, 굵게:** , 굵게+기울임:***)-->
 
@@ -63,7 +61,7 @@ HELLO WORLD<br>
 - [x] 체크3
 
 ## 링크(하이퍼링크) -바로가기 (GITHUB는 새창으로 바로가기 지원x)
-[네이버 바로가기](https://www.naver.com/)<br>
+[네이버 바로가기](https://www.naver.com/)
 
 # 이미지
 ![고양이](./cat.jpg)
